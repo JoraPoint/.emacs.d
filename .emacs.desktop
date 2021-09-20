@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Aug 27 23:10:03 2021
+;; Desktop file format version 208
+;; Emacs version 27.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24873 7275 64394 440000) (desktop . "208") "root@aldebaran" nil nil ((((minibuffer . t) (display-type . mono) (background-mode . dark) (cursor-color . "#7eff00") (menu-bar-lines . 0) (vertical-scroll-bars . right) (tool-bar-lines . 0) (background-color . "black") (foreground-color . "#7eff00") (border-color . "orange") (mouse-color . "#7eff00") (font . "tty") (height . 11) (width . 10) (modeline . t) (unsplittable) (tab-bar-lines . 0) (frameset--id . "31F5-F61D-CCFD-6CBB") (frameset--mini t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 4) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 10) (pixel-height . 10) (total-width . 10) (total-height . 10) (normal-height . 1.0) (normal-width . 1.0) (buffer "DOLLY.el" (selected . t) (hscroll . 0) (fringes 0 0 nil nil) (margins 2) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1753) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name "/srv/http/yii/vendor/yiisoft/yii2/TAGS")
+(setq tags-table-list '("/srv/http/yii/vendor/yiisoft/yii2/TAGS"))
+(setq search-ring '(#("example" 0 7 (isearch-regexp-function nil isearch-case-fold-search t)) #("type f" 0 6 (isearch-regexp-function nil isearch-case-fold-search t)) #("type" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("maxdepth" 0 8 (isearch-regexp-function nil isearch-case-fold-search t)) #("ane" 0 3 (isearch-regexp-function nil isearch-case-fold-search t)) #("-ctime" 0 6 (isearch-regexp-function nil isearch-case-fold-search t)) #("perl" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("ema" 0 3 (isearch-regexp-function nil isearch-case-fold-search t)) #("time" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("ice" 0 3 (isearch-regexp-function nil isearch-case-fold-search t)) #("msft" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("source" 0 6 (isearch-regexp-function nil isearch-case-fold-search t)) #("call" 0 4 (isearch-case-fold-search t isearch-regexp-function nil)) #("*/" 0 2 (isearch-case-fold-search t isearch-regexp-function nil)) #("va" 0 2 (isearch-case-fold-search t isearch-regexp-function nil)) #("." 0 1 (isearch-case-fold-search t isearch-regexp-function nil))))
+(setq regexp-search-ring nil)
+(setq register-alist '((89 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/common/config") (67 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/backend/components") (65 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/assets") (103 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/console/migrations") (107 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/components") (102 "list-ocean") (76 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/views/layouts") (86 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/views/") (81 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/config") (87 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/web") (77 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/common/models") (82 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/controllers") (57 "aldebaran") (48 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/models") (106 file . "/root/.emacs.d/jump/jump.el") (116 "$this") (113 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/backend/config") (49 . #("required" 0 1 (fontified t face php-string) 1 2 (fontified t face php-string) 2 3 (fontified t face php-string) 3 4 (fontified t face php-string) 4 5 (fontified t face php-string) 5 6 (fontified t face php-string) 6 7 (fontified t face php-string) 7 8 (fontified t face php-string))) (114 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/backend/controllers") (59 . #("  /srv/http" 0 2 (fontified t) 2 11 (fontified t face dired-header))) (120 . #("  /root/Downloads" 0 2 (fontified t) 2 17 (fontified t face dired-header))) (97 file . "/root/.emacs.d/init.el") (98 file . "/srv/http/yii0/vendor/yiisoft/yii2/base") (119 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/backend/web") (99 . #("  (shell-command-to-string \"./insert_site_css.sh\")" 0 2 (fontified t) 2 3 (fontified t) 3 27 (fontified t) 27 49 (fontified t face font-lock-string-face) 49 50 (rear-nonsticky t fontified t))) (118 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/backend/views/") (109 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/backend/models") (96 file . "/srv/http/yii0/config") (121 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/") (112 "php -S localhost:8080 -t web") (108 file . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/backend/views/layouts")))
+(setq file-name-history '("~/.emacs.d/intellect/make-landing/DOLLY.el" "~/.emacs.d/intellect/make-landing/site.css" "/home/egor/scratch.el" "~/.emacs.d/intellect/make-landing/template.sh" "/srv/http/yii/vendor/autoload.php" "/srv/http/yii/frontend/web/index.php" "~/.emacs.d/intellect/intellect.el" "~/.emacs.d/intellect/dolly_regexp/dolly-regexp.el" "/srv/http/yii/vendor/yiisoft/yii2/base/ArrayAccessTrait.php" "/srv/http/yii/vendor/yiisoft/yii2/base/StaticInstanceInterface.php" "/ssh:root@lamp-kseniasoloshenko83.tc200py.tcenv.cloud#22007|sudo:root@lamp-kseniasoloshenko83.tc200py.tcenv.cloud: " "/srv/http/yii0/less.php" "/srv/http/yii0/config/db.php" "/srv/http/yii0/config/web.php" "/srv/http/boot-free/#index.html#" "/etc/hosts" "~/.emacs.d/tutor.el" "/srv/http/yii0/views/ice/index.php" "/srv/http/yii0/tutorial.php" "/srv/http/yii0/keter.sql" "/srv/http/yii0/tutor.php" "/srv/http/yii0/scratch.php" "/srv/http/yii0/views/site/store.php" "/srv/http/yii0/views/site/hello.php"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/root/.emacs.d/intellect/make-landing/DOLLY.el"
+  "DOLLY.el"
+  'elisp-byte-code-mode
+  '(abbrev-mode eldoc-mode linum-mode helm-mode yas-minor-mode)
+  1753
+  '(1564 nil)
+  nil
+  nil
+  '((buffer-display-time 24867 34317 180572 480000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (792))))
+
+(desktop-create-buffer 208
+  "/root/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(abbrev-mode eldoc-mode linum-mode helm-mode auto-complete-mode yas-minor-mode auto-revert-mode)
+  1051
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24867 34198 88791 978000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+

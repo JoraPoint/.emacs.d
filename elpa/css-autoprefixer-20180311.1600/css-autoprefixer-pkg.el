@@ -1,0 +1,2 @@
+;;; Generated package description from css-autoprefixer.el  -*- no-byte-compile: t -*-
+(define-package "css-autoprefixer" "20180311.1600" "Adds autoprefix to CSS" '((emacs "24")) :commit "386a5defc8543a3b87820f1761c075c7d1d93b38" :authors '((nil . "Kyung Mo Kweon<kkweon@gmail.com> and contributors")) :maintainer '(nil . "Kyung Mo Kweon<kkweon@gmail.com> and contributors") :keywords '("convenience" "usability" "css") :url "https://github.com/kkweon/emacs-css-autoprefixer")

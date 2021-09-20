@@ -1,0 +1,795 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8 -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("TEST"
+ (filename . "/srv/http/test/")
+ (front-context-string . "backend\n  -rw-r-")
+ (rear-context-string . "96 авг  9 23:51 ")
+ (position . 174))
+("BASHRC"
+ (filename . "~/.bashrc")
+ (front-context-string)
+ (rear-context-string . " jacke='jacke.sh")
+ (position . 79))
+("ORG-LIFE"
+ (filename . "~/project/org-life.org")
+ (front-context-string . "* наверное сейча")
+ (rear-context-string)
+ (position . 1))
+("user_img"
+ (filename . "/srv/http/public_html/frontend/web/user_img/")
+ (front-context-string . "altayskayOblepih")
+ (rear-context-string . "58 авг 25 01:31 ")
+ (position . 254))
+("SESSION"
+ (filename . "~/tmp/")
+ (front-context-string . "sess_ust6qmac26n")
+ (rear-context-string . "24 авг 27 16:05 ")
+ (position . 162))
+("MAKE"
+ (filename . "~/.emacs.d/intellect/make-landing/")
+ (front-context-string . "BaseAsset.php\n  ")
+ (rear-context-string . "71 авг 23 22:47 ")
+ (position . 191))
+("dolly-navbar"
+ (filename . "/srv/http/public_html/frontend/web/navbar.php")
+ (front-context-string . "',\n    ],\n]);\n$m")
+ (rear-context-string . "    'class' => '")
+ (position . 139))
+("BASEPATH"
+ (filename . "~/.emacs.d/intellect/make-landing/basePath.el")
+ (front-context-string)
+ (rear-context-string . "гационной панели")
+ (position . 1185))
+("dolly-js-index"
+ (filename . "/srv/http/public_html/frontend/web/index.html")
+ (front-context-string . "<?php $this->end")
+ (rear-context-string . "!-- sidebar -->\n")
+ (position . 17018))
+("dolly-js-asset"
+ (filename . "/srv/http/public_html/frontend/assets/BaseAsset.php")
+ (front-context-string . "\n            \n  ")
+ (rear-context-string . " public $js = [\n")
+ (position . 300))
+("dolly-css-index"
+ (filename . "/srv/http/public_html/frontend/web/index.html")
+ (front-context-string . "      <!-- Scrol")
+ (rear-context-string . "!-- fevicon -->\n")
+ (position . 951))
+("dolly-css-asset"
+ (filename . "/srv/http/public_html/frontend/assets/BaseAsset.php")
+ (front-context-string . "\n            'cs")
+ (rear-context-string . " public $css = [")
+ (position . 264))
+("dolly-css"
+ (filename . "/srv/http/public_html/frontend/assets/BaseAsset.php")
+ (front-context-string . "\n            'cs")
+ (rear-context-string . " public $css = [")
+ (position . 264))
+("priem"
+ (filename . "/srv/http/priem/")
+ (front-context-string)
+ (rear-context-string . "авг 21 05:29 ..\n")
+ (position . 121))
+("icecream"
+ (filename . "/home/egor/template/ice-cream-shop-website-template/")
+ (front-context-string . "gallery.html\n  -")
+ (rear-context-string . "91 янв 28  2021 ")
+ (position . 365))
+("ORG-DOLLY"
+ (filename . "~/.emacs.d/intellect/dolly_regexp/org-dolly.org")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("tutor_scratch.php"
+ (filename . "/srv/http/tutor_scratch.php")
+ (front-context-string)
+ (rear-context-string . ")\n    ->send(); ")
+ (position . 223))
+("ORG-ICE"
+ (filename . "~/project/icecream.org")
+ (front-context-string)
+ (rear-context-string . "ли картинки\n* \n\n")
+ (position . 5575))
+("options-two"
+ (filename . "~/.emacs.d/intellect/make-landing/navbar.php")
+ (front-context-string . "\n\n\n-->    \nconta")
+ (rear-context-string . ":end();\n?>\n<!--\n")
+ (position . 894))
+("container"
+ (filename . "/srv/http/yii/frontend/views/layouts/main.php")
+ (front-context-string . "=\"header\">\n		   ")
+ (rear-context-string . "-->\n		<div class")
+ (position . 1332))
+("container-two"
+ (filename . "~/.emacs.d/intellect/make-landing/navbar.php")
+ (front-context-string . "'],\n    'items' ")
+ (rear-context-string . "=> ['class' => '")
+ (position . 818))
+("container-one"
+ (filename . "~/.emacs.d/intellect/make-landing/navbar.php")
+ (front-context-string . "']\n             ")
+ (rear-context-string . "   ['class' => '")
+ (position . 682))
+("logout-class"
+ (filename . "~/.emacs.d/intellect/make-landing/navbar.php")
+ (front-context-string . "']\n             ")
+ (rear-context-string . "   ['class' => '")
+ (position . 682))
+("options-one"
+ (filename . "~/.emacs.d/intellect/make-landing/navbar.php")
+ (front-context-string . "',\n    ],\n]);\n$m")
+ (rear-context-string . "    'class' => '")
+ (position . 139))
+("post-header"
+ (filename . "/srv/http/yii/frontend/views/layouts/main.php")
+ (front-context-string . "            <div")
+ (rear-context-string . "ss=\"header_bg\">\n")
+ (position . 1480))
+("header"
+ (filename . "/srv/http/yii/frontend/views/layouts/main.php")
+ (front-context-string . ">\n	    <div clas")
+ (rear-context-string . " <body>\n	<header")
+ (position . 1239))
+("jacke"
+ (filename . "/srv/http/yii/frontend/views/layouts/main.php")
+ (front-context-string . "\n\n            <!")
+ (rear-context-string . "ark-set \"jacke\")")
+ (position . 1652))
+("MAKEDOLLY"
+ (filename . "~/.emacs.d/intellect/make-landing/make-layout.el")
+ (front-context-string . "(defun dolly-ище")
+ (rear-context-string . "ует в регистр 4\n")
+ (position . 2128))
+("neoIce"
+ (filename . "/home/egor/neoIce/")
+ (front-context-string . "envelope.svg\n  d")
+ (rear-context-string . "27 авг  7 03:08 ")
+ (position . 345))
+("DOLLY"
+ (filename . "~/.emacs.d/intellect/make-landing/DOLLY.el")
+ (front-context-string)
+ (rear-context-string . "public_html\")))\n")
+ (position . 12911))
+("template"
+ (filename . "/home/egor/template/")
+ (front-context-string . "Radiance Free We")
+ (rear-context-string . "07 авг  6 05:23 ")
+ (position . 179))
+("make-landing"
+ (filename . "~/.emacs.d/intellect/make-landing/")
+ (front-context-string . "main-text.txt\n  ")
+ (rear-context-string . " 0 авг  6 02:14 ")
+ (position . 350))
+("public_html"
+ (filename . "/srv/http/public_html/frontend/web/")
+ (front-context-string . "js\n  -rw-r--r-- ")
+ (rear-context-string . "96 авг 23 16:52 ")
+ (position . 568))
+("exec"
+ (front-context-string . "-cl] [-a name] [")
+ (rear-context-string . ".\n\n       exec [")
+ (position . 286786)
+ (location . "man 1 bash")
+ (man-args . "1 bash")
+ (handler . Man-bookmark-jump))
+("firefox"
+ (filename . "/usr/lib/firefox/")
+ (front-context-string . "application.ini\n")
+ (rear-context-string . "96 июл 22 19:44 ")
+ (position . 191))
+("CommonLisp"
+ (filename . "/home/egor/CommonLisp/")
+ (front-context-string)
+ (rear-context-string . " 0 авг  3 03:24 ")
+ (position . 317))
+("WWWHOME"
+ (filename . "/home/egor/www/")
+ (front-context-string . "css\n  drwxr-xr-x")
+ (rear-context-string . "96 июл 31 07:16 ")
+ (position . 167))
+("img"
+ (filename . "/home/egor/iceCream/img/")
+ (front-context-string)
+ (rear-context-string . "82 июл 30 07:14 ")
+ (position . 232))
+("ice"
+ (filename . "/home/egor/iceCream/")
+ (front-context-string)
+ (rear-context-string . " 0 июл 30 03:55 ")
+ (position . 265))
+("j"
+ (filename . "~/.emacs.d/intellect/make-landing/DOLLY.el")
+ (front-context-string . "(defun dolly-css")
+ (rear-context-string . "т все css файлы\n")
+ (position . 8854))
+("lll"
+ (filename . "/home/egor/lll/")
+ (front-context-string . "index.html\n  -rw")
+ (rear-context-string . "14 июл 29 05:19 ")
+ (position . 167))
+("1"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/db/Query.php")
+ (front-context-string . " * $query = new ")
+ (rear-context-string . "e,\n *\n * ```php\n")
+ (position . 737))
+("ActiveQuery.php"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/db/ActiveQuery.php")
+ (front-context-string . " * An ActiveQuer")
+ (rear-context-string . "ecord class.\n *\n")
+ (position . 294))
+("password.el"
+ (filename . "~/portfel/pass.el")
+ (front-context-string . " (aldebaran)\n;; ")
+ (rear-context-string)
+ (position . 1))
+("extutor.php"
+ (filename . "/srv/http/extutor.php")
+ (front-context-string . "<?php\n\n/**\n * th")
+ (rear-context-string)
+ (position . 1))
+("iterator"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/db/ArrayExpression.php")
+ (front-context-string . "\n/**\n * Class Ar")
+ (rear-context-string . "onfigException;\n")
+ (position . 226))
+("StaticInstanceInterface.php"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/base/StaticInstanceInterface.php")
+ (front-context-string . "<?php\n/**\n * @li")
+ (rear-context-string)
+ (position . 1))
+("ActiveRecordInterface.php"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/db/ActiveRecordInterface.php")
+ (front-context-string . "save($runValidat")
+ (rear-context-string . "public function ")
+ (position . 15138))
+("Configurable.php"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/base/Configurable.php")
+ (front-context-string . "<?php\n/**\n * @li")
+ (rear-context-string)
+ (position . 1))
+("intellect"
+ (filename . "~/.emacs.d/intellect/")
+ (front-context-string . "chapter3discusTa")
+ (rear-context-string . "03 июн 20 23:14 ")
+ (position . 177))
+("0"
+ (filename . "/srv/http/secondTutor.php")
+ (front-context-string)
+ (rear-context-string . "\n        }\n    }")
+ (position . 7159))
+("9"
+ (filename . "/srv/http/secondTutor.php")
+ (front-context-string . "\n         */\n   ")
+ (rear-context-string . "coluns]] objects")
+ (position . 216))
+("BaseListView.php"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/widgets/BaseListView.php")
+ (front-context-string . " * @author Qiang")
+ (rear-context-string . "ta-widgets).\n *\n")
+ (position . 623))
+("BaseDataProvider.php"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/data/BaseDataProvider.php")
+ (front-context-string . "<?php\n/**\n * @li")
+ (rear-context-string)
+ (position . 1))
+("secondTutor.php"
+ (filename . "/srv/http/secondTutor.php")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("o"
+ (filename . "~/project/icecream.org")
+ (front-context-string)
+ (rear-context-string . "лученного письма")
+ (position . 768))
+("p"
+ (filename . "/srv/http/yii/frontend/assets/AppAsset.php")
+ (front-context-string . "style.css',\n    ")
+ (rear-context-string . "',\n        'css/")
+ (position . 272))
+("w"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/backend/components/EnergyAction.php")
+ (front-context-string . "\n        }\n    }")
+ (rear-context-string . "system is fall\";")
+ (position . 191))
+("corntatus.el"
+ (filename . "~/.emacs.d/registers/corntatus.el")
+ (front-context-string . ";;;;;;;;;;;;;;;;")
+ (rear-context-string)
+ (position . 1))
+("chapter3discusTannebaum3chapter.el"
+ (filename . "~/.emacs.d/intellect/chapter3discusTannebaum3chapter.el")
+ (front-context-string)
+ (rear-context-string . " interface card\n")
+ (position . 772))
+("discusTannebaum.el"
+ (filename . "~/.emacs.d/intellect/discusTannebaum.el")
+ (front-context-string . "если в электриче")
+ (rear-context-string)
+ (position . 1))
+("AppAsset.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/assets/AppAsset.php")
+ (front-context-string . "<?php\n\nnamespace")
+ (rear-context-string)
+ (position . 1))
+("tutorApache.php"
+ (filename . "/srv/http/tutorApache.php")
+ (front-context-string . "/// .htaccess в ")
+ (rear-context-string)
+ (position . 1))
+("n"
+ (filename . "~/.emacs.d/intellect/make-landing/navbar.php")
+ (front-context-string . "header_bgheader_")
+ (rear-context-string . "    'class' => '")
+ (position . 139))
+("l"
+ (filename . "~/.emacs.d/intellect/make-landing/dolly.el")
+ (front-context-string . "\n\n;;;Dolly работ")
+ (rear-context-string . "ционную панель\n\n")
+ (position . 10590))
+("t"
+ (filename . "/srv/http/yii/frontend/views/site/templ.php")
+ (front-context-string . "<!-- end banner ")
+ (rear-context-string)
+ (position . 1))
+("k"
+ (filename . "~/.emacs.d/intellect/make-landing/make-layout.el")
+ (front-context-string . "\n\n\n\n\n\n;;; Dolly ")
+ (rear-context-string . "к виду link href")
+ (position . 2711))
+("r"
+ (filename . "~/.emacs.d/intellect/make-landing/dolly.el")
+ (front-context-string . ";;        (inter")
+ (rear-context-string . "oter\"	       ;;\n")
+ (position . 6889))
+("i"
+ (filename . "~/.emacs.d/intellect/make-landing/dolly.el")
+ (front-context-string . ";;        (searc")
+ (rear-context-string . "						       ;;\n")
+ (position . 8612))
+("BaseActiveRecord.php"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/db/BaseActiveRecord.php")
+ (front-context-string . " * ActiveRecord ")
+ (rear-context-string . "rayHelper;\n\n/**\n")
+ (position . 480))
+("h"
+ (filename . "~/.emacs.d/intellect/make-landing/search-https.el")
+ (front-context-string . ";;;; долорес ище")
+ (rear-context-string)
+ (position . 1))
+("u"
+ (filename . "~/.emacs.d/intellect/make-landing/dolly.el")
+ (front-context-string . "\n;;;;главная фун")
+ (rear-context-string . "   (dolly-js))\n\n")
+ (position . 2392))
+("nyxt-source"
+ (filename . "/home/egor/nyxt/src/nyxt/source/")
+ (front-context-string . "about.lisp\n  -rw")
+ (rear-context-string . "49 мая 25 14:26 ")
+ (position . 188))
+("q"
+ (filename . "~/.emacs.d/intellect/scratch.el")
+ (front-context-string . "       (insert-r")
+ (rear-context-string . " (region-end)))\n")
+ (position . 3193))
+("d"
+ (filename . "~/.emacs.d/intellect/make-landing/dolly.el")
+ (front-context-string)
+ (rear-context-string . "olly-storage)\n\n\n")
+ (position . 8744))
+("a"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/backend/controllers/SiteController.php")
+ (front-context-string . "    public funct")
+ (rear-context-string . " string\n     */\n")
+ (position . 1418))
+("example.php"
+ (filename . "/srv/http/yii/scratch/example.php")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("sites-enabled"
+ (filename . "/ssh:root@lamp-huravltampl.tc200py.tcenv.cloud#22010|sudo:root@lamp-huravltampl.tc200py.tcenv.cloud:/etc/apache2/sites-enabled/")
+ (front-context-string . "000-default.conf")
+ (rear-context-string . "35 Nov 16  2018 ")
+ (position . 313))
+("lesson-apache2-config"
+ (filename . "/ssh:root@lamp-huravltampl.tc200py.tcenv.cloud#22010|sudo:root@lamp-huravltampl.tc200py.tcenv.cloud:/etc/apache2/")
+ (front-context-string . "apache2.conf\n  d")
+ (rear-context-string . "24 Nov  3  2018 ")
+ (position . 302))
+("apache2-lesson"
+ (filename . "/ssh:root@lamp-huravltampl.tc200py.tcenv.cloud#22010|sudo:root@lamp-huravltampl.tc200py.tcenv.cloud:/var/log/apache2/")
+ (front-context-string . "access.log\n  -rw")
+ (rear-context-string . "15 Apr 14 08:40 ")
+ (position . 327))
+("register-lesson"
+ (filename . "~/.emacs.d/registers/lesson.el")
+ (front-context-string . ";;;;;;;;;;;;;;;;")
+ (rear-context-string . " version common\n")
+ (position . 154))
+("jump"
+ (filename . "~/.emacs.d/jump/jump.el")
+ (front-context-string . ";;; прыжки для в")
+ (rear-context-string)
+ (position . 1))
+#1=(#("bookmark+-1.el" 0 14
+      (bmkp-full-record #1#))
+    (filename . "/root/.emacs.d/bookmark+-1.el")
+    (position . 0)
+    (created 24693 23548 895112 561000))
+("Application.php"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/base/Application.php")
+ (front-context-string . "    abstract pub")
+ (rear-context-string . "esponse\n     */\n")
+ (position . 16038))
+("b"
+ (filename . "/srv/http/basic/views/unit/update.php")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("z"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/views/layouts/neomain.php")
+ (front-context-string . "<?php $this->beg")
+ (rear-context-string . "ster($this);\n?>\n")
+ (position . 254))
+("s"
+ (filename . "~/.emacs.d/intellect/scratch.el")
+ (front-context-string . "\n\n(defun dolores")
+ (rear-context-string . "work-in-text))\n\n")
+ (position . 880))
+("e"
+ (filename . "/srv/http/public_html/frontend/components/Elf.php")
+ (front-context-string . "\n    class Elf e")
+ (rear-context-string . "se\\BaseObject;\n\n")
+ (position . 61))
+("c"
+ (filename . "/srv/http/yii/frontend/web/css/site.css")
+ (front-context-string)
+ (rear-context-string . "utline: none;\n}\n")
+ (position . 1899))
+("x"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/views/layouts/main.php")
+ (front-context-string . "<link rel=\"style")
+ (rear-context-string . "l=\"stylesheet\">\n")
+ (position . 696))
+(";"
+ (filename . "/srv/http/public_html/frontend/views/site/index.php")
+ (front-context-string . "\n\n    ?> \n\n<!-- ")
+ (rear-context-string . "on' => 1010,\n]);")
+ (position . 4693))
+("m"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/frontend/views/layouts/main.php")
+ (front-context-string . "        'brandUr")
+ (rear-context-string . "ii::$app->name,\n")
+ (position . 1180))
+("v"
+ (filename . "/srv/http/basic/views/unit/view.php")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("HelloWidget.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/components/HelloWidget.php")
+ (front-context-string . "<?php\n\nnamespace")
+ (rear-context-string)
+ (position . 1))
+("WidgetHello.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/components/WidgetHello.php")
+ (front-context-string)
+ (rear-context-string . "       }\n    }\n\n")
+ (position . 478))
+("about.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/views/site/about.php")
+ (front-context-string . "<?php\n\n/* @var $")
+ (rear-context-string)
+ (position . 1))
+("CatalogController.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/controllers/CatalogController.php")
+ (front-context-string . "\n           }\n  ")
+ (rear-context-string . " => $category]);")
+ (position . 421))
+("Category.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/models/Category.php")
+ (front-context-string . "            [['n")
+ (rear-context-string . "], 'required'],\n")
+ (position . 792))
+("main.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/views/layouts/main.php")
+ (front-context-string . "<?php  \n/**\n *\n ")
+ (rear-context-string)
+ (position . 1))
+("upload.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/views/ice/upload.php")
+ (front-context-string . "<?php\n\nuse yii\\w")
+ (rear-context-string)
+ (position . 1))
+("UploadImage.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/models/UploadImage.php")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("feedback-view.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/views/ice/feedback.php")
+ (front-context-string . "<?php\n\nuse yii\\w")
+ (rear-context-string)
+ (position . 1))
+("source.sql"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/models/source.sql")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("Feedback.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/models/Feedback.php")
+ (front-context-string)
+ (rear-context-string . "ия'],\n        ];")
+ (position . 903))
+("yii2"
+ (filename . "/srv/http/yii/vendor/yiisoft/yii2/")
+ (front-context-string . ".github\n  -rw-r-")
+ (rear-context-string . "96 Mar  4 09:45 ")
+ (position . 231))
+("PageController.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/controllers/admin/PageController.php")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("hello.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/views/ice/hello.php")
+ (front-context-string)
+ (rear-context-string . "ach ($users)  ?>")
+ (position . 453))
+("IceController.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/controllers/IceController.php")
+ (front-context-string . "\n        }\n    }")
+ (rear-context-string . "el' => $model]);")
+ (position . 1341))
+("РАБОЧАЯ СТАНЦИЯ"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/")
+ (front-context-string . "assets\n  -rw----")
+ (rear-context-string . " 3 Mar  4 01:01 ")
+ (position . 296))
+("web"
+ (filename . "/srv/http/yii/web/")
+ (front-context-string . "assets\n  drwxr-x")
+ (rear-context-string . "96 Mar 21 12:11 ")
+ (position . 208))
+("yii"
+ (filename . "/srv/http/yii/")
+ (front-context-string . "frontend\n  -rw-r")
+ (rear-context-string . "96 мая  6 03:18 ")
+ (position . 695))
+("tutor.php"
+ (filename . "/srv/http/tutor.php")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("lesson"
+ (filename . "/srv/http/lesson/")
+ (front-context-string . ".#index.php -> r")
+ (rear-context-string . "28 Mar  4 07:00 ")
+ (position . 216))
+("Transport.php"
+ (filename . "/srv/http/lesson/Patterns/FactoryMethod/LogistikExample/Transport.php")
+ (front-context-string)
+ (rear-context-string . "function deliver")
+ (position . 142))
+("ЗАКЛАДКА"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/create_product.php")
+ (front-context-string . "\n$db = $database")
+ (rear-context-string . " new Database;\nx")
+ (position . 263))
+("create_product.php"
+ (filename . "/ssh:corntatus@188.225.21.131:/home/c/corntatus/public_html/create_product.php")
+ (front-context-string . "\n$db = $database")
+ (rear-context-string . "= new Database;\n")
+ (position . 262))
+("user.php"
+ (filename . "/srv/http/bitrix/modules/main/lib/user.php")
+ (front-context-string . "			),\n			'EMAIL'")
+ (rear-context-string . "pe' => 'string'\n")
+ (position . 966))
+("home"
+ (filename . "/home/egor/")
+ (front-context-string . "..\n  -rw------- ")
+ (rear-context-string . "96 Dec 17 04:19 ")
+ (position . 159))
+("log"
+ (filename . "/var/log/")
+ (front-context-string . "Xorg.0.log\n  -rw")
+ (rear-context-string . "17 Jan 29 12:38 ")
+ (position . 242))
+("egor-ssh"
+ (filename . "/home/egor/.ssh/")
+ (front-context-string)
+ (rear-context-string . "75 Jan 29 11:14 ")
+ (position . 206))
+("ssh"
+ (filename . "/etc/ssh/")
+ (front-context-string . "ssh_config\n  -rw")
+ (rear-context-string . "31 Jan 29 11:05 ")
+ (position . 259))
+("known_hosts"
+ (filename . "~/.ssh/known_hosts")
+ (front-context-string . "\n127.0.0.1 ecdsa")
+ (rear-context-string . "AVsp0L3Fkn1eUvU=")
+ (position . 913))
+(".ssh"
+ (filename . "~/.ssh/")
+ (front-context-string)
+ (rear-context-string . "Jan 30 00:30 ..\n")
+ (position . 157))
+("zcore-bitrix"
+ (filename . "/srv/http/bitrix-test/bitrix/")
+ (front-context-string . ".settings.php\n  ")
+ (rear-context-string . "49 Jan 27 02:16 ")
+ (position . 338))
+("xbitrix-tutor.php"
+ (filename . "/srv/http/tutorial.php")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("description.php"
+ (filename . "/srv/http/bitrix-test/local/templates/iceStore/description.php")
+ (front-context-string)
+ (rear-context-string . "he bitrix',\n];\n\n")
+ (position . 113))
+("mozilla_root0"
+ (filename . "/tmp/mozilla_root0/")
+ (front-context-string . "ice-2367072_640.")
+ (rear-context-string . "11 Jan 22 06:38 ")
+ (position . 212))
+("hosts"
+ (filename . "/etc/hosts")
+ (front-context-string . "127.0.0.1		yii\n\n")
+ (rear-context-string . "7.0.0.1		lesson\n")
+ (position . 210))
+("httpd-vhosts.conf"
+ (filename . "/etc/httpd/conf/extra/httpd-vhosts.conf")
+ (front-context-string . "\n\n<VirtualHost *")
+ (rear-context-string . "\n</VirtualHost>\n")
+ (position . 1891))
+("httpd.conf"
+ (filename . "/etc/httpd/conf/httpd.conf")
+ (front-context-string . "\n\n# Local access")
+ (rear-context-string . "ttpd-vhosts.conf")
+ (position . 19541))
+("second-tutor.php"
+ (filename . "/srv/http/second-tutor.php")
+ (front-context-string . "    <meta name=\"")
+ (rear-context-string . "harset=\"utf-8\">\n")
+ (position . 502))
+("jump.el"
+ (filename . "/srv/http/jump.el")
+ (front-context-string)
+ (rear-context-string . "ков my-lord!!!\n\n")
+ (position . 288))
+("bookmarks"
+ (filename . "~/.emacs.d/bookmarks")
+ (front-context-string . " (filename . \"/s")
+ (rear-context-string . "\n(\"hokma-human\"\n")
+ (position . 1031))
+(".emacs.d"
+ (filename . "~/.emacs.d/")
+ (front-context-string . "-rw-r--r--   1 r")
+ (rear-context-string . ":47 macros.el\n  ")
+ (position . 987))
+("Downloads"
+ (filename . "/home/egor/Downloads/")
+ (front-context-string . "archlinux-2021.0")
+ (rear-context-string . "20 июн 14 02:04 ")
+ (position . 188))
+("root"
+ (filename . "~/")
+ (front-context-string . "git-emacs\n  -rwx")
+ (rear-context-string . "96 Dec 24 07:59 ")
+ (position . 1862))
+("i3"
+ (filename . "~/.config/i3/config")
+ (front-context-string . "# This file has ")
+ (rear-context-string)
+ (position . 1))
+("config"
+ (filename . "~/.i3/config")
+ (front-context-string . "# i3 config file")
+ (rear-context-string)
+ (position . 1))
+("aabrev.el"
+ (filename . "~/.emacs.d/aabrev.el")
+ (front-context-string . "\n;;;;;;;;;;;;;;;")
+ (rear-context-string . "             ) )")
+ (position . 6376))
+("fire-vim"
+ (filename . "~/fire-vim")
+ (front-context-string . ";; This buffer i")
+ (rear-context-string)
+ (position . 1))
+("basic"
+ (filename . "/srv/http/basic/")
+ (front-context-string . "..\n  -rw-r--r-- ")
+ (rear-context-string . "96 Jan  1 08:22 ")
+ (position . 164))
+("local"
+ (filename . "/srv/http/bitrix-test/local/")
+ (front-context-string)
+ (rear-context-string . "96 Jan 27 23:04 ")
+ (position . 215))
+("usr-share"
+ (filename . "/usr/share/")
+ (front-context-string . "GConf\n  drwxr-xr")
+ (rear-context-string . "96 Dec 14 14:27 ")
+ (position . 208))
+("macros.el"
+ (filename . "~/.emacs.d/macros.el")
+ (front-context-string . "\n\n(fset 'funend\n")
+ (rear-context-string . "?\\C-p] 0 \"%d\"))\n")
+ (position . 1510))
+("nginx"
+ (filename . "/etc/nginx/")
+ (front-context-string . "fastcgi.conf\n  -")
+ (rear-context-string . "77 Aug 20 11:10 ")
+ (position . 204))
+("php.ini"
+ (filename . "/etc/php/php.ini")
+ (front-context-string . "session.save_pat")
+ (rear-context-string . "sion.save-path\n;")
+ (position . 49815))
+("unix"
+ (filename . "/")
+ (front-context-string . "..\n  lrwxrwxrwx ")
+ (rear-context-string . "96 Dec 14 13:14 ")
+ (position . 149))
+(""
+ (filename . "/")
+ (front-context-string . "..\n  lrwxrwxrwx ")
+ (rear-context-string . "96 Dec 14 13:14 ")
+ (position . 149))
+("var"
+ (filename . "/var/")
+ (front-context-string . "..\n  -rw-r--r-- ")
+ (rear-context-string . "96 Dec 14 13:14 ")
+ (position . 150))
+("usr"
+ (filename . "/usr/")
+ (front-context-string . "..\n  drwxr-xr-x ")
+ (rear-context-string . "96 Dec 14 13:14 ")
+ (position . 155))
+("tmp"
+ (filename . "/tmp/")
+ (front-context-string . "..\n  drwxrwxrwt ")
+ (rear-context-string . "96 Dec 14 13:14 ")
+ (position . 146))
+("sys"
+ (filename . "/sys/")
+ (front-context-string . "..\n  drwxr-xr-x ")
+ (rear-context-string . "96 Dec 14 13:14 ")
+ (position . 143))
+("SERVER"
+ (filename . "/srv/http/")
+ (front-context-string)
+ (rear-context-string . "96 Dec 14 13:14 ")
+ (position . 150))
+("egor"
+ (filename . "/home/egor/")
+ (front-context-string . "..\n  -rw------- ")
+ (rear-context-string . "96 Dec 17 04:19 ")
+ (position . 154))
+("etc"
+ (filename . "/etc/")
+ (front-context-string . ".pwd.lock\n  -rw-")
+ (rear-context-string . " 0 Dec 14 13:14 ")
+ (position . 203))
+("~"
+ (filename . "~/")
+ (front-context-string . ".ssh\n  drwxr-xr-")
+ (rear-context-string . "96 Jan 29 10:48 ")
+ (position . 1486))
+("aaegor"
+ (end-position . 5248)
+ (time 24693 23691 103519 698000)
+ (visits . 0)
+ (filename . "~/.emacs.d/init.el")
+ (front-context-string . "\n\n\n;;(global-set")
+ (rear-context-string . "-four-element)\n\n")
+ (position . 5248))
+)
